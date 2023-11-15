@@ -107,3 +107,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/rider,windows
+
+#.idea files
+.idea
