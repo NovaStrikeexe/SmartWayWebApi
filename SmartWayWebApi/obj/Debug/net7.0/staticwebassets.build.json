@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vMEOhDlvFNndi0cAbg0JMpfFRhYbaKv1A3R4x+jSBvA=",
+  "Source": "SmartWayWebApi",
+  "BasePath": "_content/SmartWayWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
